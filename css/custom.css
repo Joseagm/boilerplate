@@ -1,0 +1,18 @@
+body {
+	
+font-family: Arial, Helvetica, sans-serif;
+background-image:url('../resources/squared_metal.png');
+	background-repeat: repeat;
+	color: #696969;
+}
+
+#container {
+
+}
+
+#movie-container{
+	width:"640px";
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+} 
